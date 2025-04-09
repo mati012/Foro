@@ -70,10 +70,11 @@
             <scope>test</scope>
         </dependency>
 			<dependency>
-    <groupId>com.oracle.database.security</groupId>
-    <artifactId>oraclepki</artifactId>
-    <version>23.5.0.24.07</version>
-</dependency>
+				<groupId>com.oracle.database.security</groupId>
+				<artifactId>oraclepki</artifactId>
+				<version>23.5.0.24.07</version>
+			</dependency>
+		
 	</dependencies>
 
 	<build>
